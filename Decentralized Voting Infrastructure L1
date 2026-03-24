@@ -1,0 +1,33 @@
+Decentralized Voting Infrastructure L1
+Overview
+
+Decentralized Voting Infrastructure L1 enables secure, transparent, and tamper-proof voting systems.
+
+Features
+On-chain voting records
+Voter identity verification
+Transparent election results
+Fraud-resistant systems
+Privacy-preserving voting
+Architecture
+Voting Registry
+
+Stores ballots and votes.
+
+Identity Verification Layer
+
+Ensures voter authenticity.
+
+Counting Engine
+
+Processes and validates results.
+
+Privacy Module
+
+Protects voter anonymity.
+
+Use Cases
+DAO governance
+Public elections
+Corporate voting
+Community decisions
