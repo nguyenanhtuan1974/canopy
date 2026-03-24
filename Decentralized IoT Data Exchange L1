@@ -1,0 +1,33 @@
+Decentralized IoT Data Exchange L1
+Overview
+
+Decentralized IoT Data Exchange L1 enables secure data sharing between IoT devices across decentralized networks.
+
+Features
+Device-to-device data exchange
+Secure communication channels
+Real-time data validation
+Scalable IoT integration
+Data monetization
+Architecture
+Device Registry
+
+Stores IoT device identities.
+
+Communication Layer
+
+Handles data exchange.
+
+Validation Module
+
+Ensures data accuracy.
+
+Integration APIs
+
+Connects to IoT systems.
+
+Use Cases
+Smart home systems
+Industrial IoT networks
+Connected vehicles
+Sensor data marketplaces
