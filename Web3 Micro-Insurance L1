@@ -1,0 +1,33 @@
+Web3 Micro-Insurance L1
+Overview
+
+Web3 Micro-Insurance L1 enables affordable, on-demand insurance coverage for small-scale risks.
+
+Features
+On-demand insurance policies
+Low-cost coverage models
+Automated claim payouts
+Risk pooling mechanisms
+Transparent policy management
+Architecture
+Policy Registry
+
+Stores insurance contracts.
+
+Risk Engine
+
+Evaluates micro-risk scenarios.
+
+Claims Module
+
+Processes and validates claims.
+
+Liquidity Pool
+
+Maintains insurance reserves.
+
+Use Cases
+Travel micro-insurance
+Device protection
+Gig worker coverage
+Short-term insurance
