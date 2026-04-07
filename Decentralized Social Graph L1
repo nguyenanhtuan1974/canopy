@@ -1,0 +1,33 @@
+Decentralized Social Graph L1
+Overview
+
+Decentralized Social Graph L1 enables users to own and manage their social relationships on-chain.
+
+Features
+User-owned social data
+Relationship mapping
+Cross-platform identity
+Privacy controls
+Portable social graphs
+Architecture
+Identity Registry
+
+Stores user profiles.
+
+Graph Engine
+
+Manages relationships and connections.
+
+Privacy Layer
+
+Controls data visibility.
+
+Integration APIs
+
+Connects with social platforms.
+
+Use Cases
+Social networks
+Web3 identity systems
+Creator ecosystems
+Community platforms
