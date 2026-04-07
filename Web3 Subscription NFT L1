@@ -1,0 +1,33 @@
+. Web3 Subscription NFT L1
+Overview
+
+Web3 Subscription NFT L1 enables subscription-based access using NFTs as programmable access tokens.
+
+Features
+NFT-based subscriptions
+Time-based access control
+Transferable subscription rights
+Automated renewals
+Programmable access logic
+Architecture
+NFT Registry
+
+Stores subscription tokens and metadata.
+
+Access Control Layer
+
+Validates subscription status.
+
+Renewal Engine
+
+Handles recurring subscription logic.
+
+Integration APIs
+
+Connects with platforms and services.
+
+Use Cases
+Membership platforms
+Content subscriptions
+SaaS access control
+Community memberships
