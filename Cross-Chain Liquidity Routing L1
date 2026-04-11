@@ -1,0 +1,16 @@
+Cross-Chain Liquidity Routing L1
+Overview
+
+Optimizes liquidity routing across multiple chains.
+
+Features
+Smart routing
+Liquidity aggregation
+Slippage optimization
+Architecture
+Routing Engine
+Liquidity Index
+Execution Layer
+Use Cases
+DEX aggregation
+Arbitrage
