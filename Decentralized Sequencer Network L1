@@ -1,0 +1,16 @@
+Decentralized Sequencer Network L1
+Overview
+
+A shared decentralized sequencer layer for rollups.
+
+Features
+Sequencer decentralization
+Fair ordering
+Low latency
+Architecture
+Sequencer Pool
+Ordering Engine
+Consensus Layer
+Use Cases
+Rollup infra
+L2 scaling
