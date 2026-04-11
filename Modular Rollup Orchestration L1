@@ -1,0 +1,16 @@
+Modular Rollup Orchestration L1
+Overview
+
+Manages deployment and coordination of multiple modular rollups.
+
+Features
+Rollup templates
+Shared security
+Cross-rollup messaging
+Architecture
+Rollup Manager
+Messaging Layer
+Security Module
+Use Cases
+App-specific rollups
+L2 ecosystems
