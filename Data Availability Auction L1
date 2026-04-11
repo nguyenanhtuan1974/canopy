@@ -1,0 +1,16 @@
+Data Availability Auction L1
+Overview
+
+Auction-based system for securing data availability.
+
+Features
+DA slot auctions
+Pricing market
+Data guarantees
+Architecture
+Auction Engine
+Storage Nodes
+Verification Layer
+Use Cases
+Rollups
+Data-heavy apps
