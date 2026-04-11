@@ -1,0 +1,16 @@
+Decentralized zk-Proof Marketplace L1
+Overview
+
+Marketplace for generating and verifying zero-knowledge proofs.
+
+Features
+zk proof outsourcing
+Verification network
+Cost optimization
+Architecture
+Proof Registry
+Verifier Network
+Payment Layer
+Use Cases
+zk rollups
+Privacy apps
