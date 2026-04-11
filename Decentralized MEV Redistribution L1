@@ -1,0 +1,16 @@
+Decentralized MEV Redistribution L1
+Overview
+
+Captures and redistributes MEV profits back to users and validators.
+
+Features
+MEV capture layer
+Fair redistribution
+Transparent auctions
+Architecture
+Auction Engine
+MEV Pool
+Distribution Module
+Use Cases
+Fair DeFi trading
+Validator incentives
