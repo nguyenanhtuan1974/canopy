@@ -1,0 +1,19 @@
+Intent Settlement Layer L1
+Overview
+
+A blockchain designed to settle user intents instead of transactions, enabling abstracted execution across multiple protocols.
+
+Features
+Intent-based execution
+Solver network
+MEV-resistant routing
+Cross-chain settlement
+Architecture
+Intent Pool
+Solver Engine
+Settlement Layer
+Verification Module
+Use Cases
+DeFi aggregation
+Cross-chain swaps
+UX abstraction
