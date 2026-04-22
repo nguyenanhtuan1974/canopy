@@ -1,0 +1,12 @@
+Decentralized State Compression L1
+Overview
+
+Reduces blockchain state size via compression techniques.
+
+Features
+State pruning
+Compression proofs
+Efficient storage
+Use Cases
+scaling
+rollups
