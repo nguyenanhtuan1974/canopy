@@ -1,0 +1,11 @@
+Proof-of-Execution L1
+Overview
+
+Verifies that computations were executed correctly.
+
+Features
+execution proofs
+verification layer
+auditability
+Use Cases
+smart contract validation
