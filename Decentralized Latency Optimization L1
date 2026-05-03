@@ -1,0 +1,18 @@
+Decentralized Latency Optimization L1
+Overview
+
+Optimizes transaction latency across networks.
+
+Features
+latency tracking
+route optimization
+node performance scoring
+execution prioritization
+Architecture
+Node Registry
+Optimization Engine
+Routing Layer
+Metrics Module
+Use Cases
+high-frequency trading
+real-time apps
