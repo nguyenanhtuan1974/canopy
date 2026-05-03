@@ -1,0 +1,19 @@
+Modular Privacy Execution L1
+Overview
+
+Enables selective privacy for transaction execution using modular privacy layers.
+
+Features
+Private execution modules
+Selective data disclosure
+zk-based privacy
+Composable privacy layers
+Architecture
+Execution Layer
+Privacy Module
+zk-Proof Engine
+Verification Layer
+Use Cases
+Private DeFi
+confidential transactions
+enterprise blockchain
