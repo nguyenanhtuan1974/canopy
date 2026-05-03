@@ -1,0 +1,19 @@
+Programmable MEV Strategy L1
+Overview
+
+Allows developers to deploy and monetize custom MEV strategies.
+
+Features
+MEV scripting
+strategy marketplace
+execution engines
+performance tracking
+Architecture
+Strategy Registry
+Execution Engine
+Auction Layer
+Reward Module
+Use Cases
+arbitrage
+liquidations
+searchers
