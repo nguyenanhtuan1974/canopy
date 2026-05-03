@@ -1,0 +1,19 @@
+Decentralized Intent Reputation L1
+Overview
+
+Tracks and scores the reliability of users and solvers in intent-based systems.
+
+Features
+Intent execution history
+Solver reputation scoring
+Trust-weighted routing
+Sybil resistance
+Architecture
+Intent Registry
+Reputation Engine
+Scoring Layer
+Verification Module
+Use Cases
+Intent-based DeFi
+Solver networks
+MEV systems
