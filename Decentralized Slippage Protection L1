@@ -1,0 +1,19 @@
+Decentralized Slippage Protection L1
+Overview
+
+Provides infrastructure to minimize and insure against slippage in trades.
+
+Features
+slippage prediction
+protection pools
+execution guarantees
+compensation mechanisms
+Architecture
+Prediction Engine
+Protection Pool
+Execution Layer
+Settlement Module
+Use Cases
+DEX trading
+aggregators
+institutional trading
