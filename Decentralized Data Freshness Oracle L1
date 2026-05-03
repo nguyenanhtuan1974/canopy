@@ -1,0 +1,19 @@
+Decentralized Data Freshness Oracle L1
+Overview
+
+Ensures data used on-chain is fresh, timely, and reliable.
+
+Features
+Timestamp validation
+freshness scoring
+multi-source verification
+latency tracking
+Architecture
+Oracle Nodes
+Freshness Engine
+Aggregation Layer
+Validation Module
+Use Cases
+real-time DeFi
+trading systems
+data feeds
