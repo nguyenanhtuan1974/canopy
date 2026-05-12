@@ -1,0 +1,13 @@
+Decentralized Intent Conflict Resolution L1
+Overview
+
+Resolves conflicting user intents competing for the same resources.
+
+Features
+conflict detection
+priority resolution
+fairness models
+solver arbitration
+Use Cases
+DeFi routing
+MEV competition
