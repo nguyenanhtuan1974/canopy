@@ -1,0 +1,12 @@
+Decentralized Time Synchronization L1
+Overview
+
+Provides a trustless global time layer for blockchain systems.
+
+Features
+time consensus
+timestamp validation
+cross-chain sync
+Use Cases
+oracles
+trading
