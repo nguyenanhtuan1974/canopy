@@ -1,0 +1,15 @@
+Adaptive Reputation Consensus L1
+
+Overview: Consensus dựa trên uy tín động thay vì stake cố định.
+
+Features:
+
+Dynamic reputation scoring
+Adaptive validator weighting
+Trust optimization
+Sybil resistance
+
+Use Cases:
+
+Governance
+Validation networks
