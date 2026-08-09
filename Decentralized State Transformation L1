@@ -1,0 +1,7 @@
+Decentralized State Transformation L1
+
+Ý tưởng: Cho phép các hệ thống chuyển đổi trạng thái một cách có thể kiểm chứng.
+
+Core: State transition proofs, transformation pipelines, state commitments, rollback mechanisms.
+
+Use cases: Cross-system workflows, modular infrastructure.
