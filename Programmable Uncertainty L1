@@ -1,0 +1,7 @@
+Programmable Uncertainty L1
+
+Ý tưởng: Biến mức độ bất định thành một primitive có thể đo lường và lập trình.
+
+Core: Uncertainty modeling, confidence parameters, probabilistic execution, risk states.
+
+Use cases: Insurance, forecasting, financial protocols.
