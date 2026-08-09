@@ -1,0 +1,7 @@
+Autonomous Scenario Engine L1
+
+Concept: Infrastructure for creating, simulating, and evaluating thousands of economic or technical scenarios.
+
+Core: Scenario generation, simulation states, outcome comparison, deterministic replay.
+
+Use cases: DAO planning, protocol design, risk simulation.
