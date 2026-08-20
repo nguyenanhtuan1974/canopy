@@ -1,0 +1,5 @@
+Autonomous State Forecasting L1
+
+Layer 1 specializes in forecasting the future state of a system based on historical and current conditions.
+
+Core: state prediction, transition modeling, scenario branching, forecast verification.
