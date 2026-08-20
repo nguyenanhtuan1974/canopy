@@ -1,0 +1,5 @@
+Autonomous State Compression L1
+
+Optimizes how blockchains store and transmit state using verifiable state compression mechanisms.
+
+Core: state compression, historical reconstruction, compact proofs, state snapshots.
