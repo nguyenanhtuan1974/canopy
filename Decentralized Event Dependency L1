@@ -1,0 +1,5 @@
+Decentralized Event Dependency L1
+
+Transforms the dependency relationships between events into queried and verifiable data.
+
+Core: event graphs, dependency mapping, causal ordering, event verification.
