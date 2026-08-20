@@ -1,0 +1,5 @@
+Autonomous Data Lifecycle L1
+
+Manages the entire data lifecycle: creation → transformation → usage → expiration.
+
+Core components: data lineage, lifecycle policies, retention logic, and usage tracking.
